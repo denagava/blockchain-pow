@@ -1,0 +1,7 @@
+blockchain.json
+blockchain.json.tmp
+bin/
+*.exe
+.idea/
+.vscode/
+.DS_Store
